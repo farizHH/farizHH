@@ -14,7 +14,6 @@
   
   Project Manager: Manual testing of mobile and web applications, creation of test documentation, collaboration with development teams.
 
-- 📫 How to reach me ...
 
 <!---
 farizHH/farizHH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
